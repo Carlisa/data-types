@@ -35,6 +35,6 @@
   },
   "homepage": "https://github.com/IonicaBizau/data-types#readme",
   "blah": {
-      "documentation": "The module exports an array of data types."
+    "documentation": "The module exports an array of data types."
   }
 }
