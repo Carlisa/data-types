@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save data-types
+# Using npm
+npm install --save data-types
+
+# Using yarn
+yarn add data-types
 ```
 
 
